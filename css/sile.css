@@ -383,3 +383,263 @@
   top: 333px;
   left: 74px;
 }
+.mah {
+  width: 1185px;
+  height: 444.38px;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 121, 111, 0.07279408345369398) 0%,
+    rgba(0, 255, 253, 0.8907212543220413) 83%
+  );
+  border-radius: 24px;
+  margin-left: 130px;
+  margin-top: 120px;
+  display: flex;
+}
+.mah_img img {
+  height: 400px;
+  margin-top: 35px;
+  margin-left: 100px;
+}
+.mah_mal {
+  width: 559px;
+  height: 289.92px;
+  margin-top: 53px;
+  margin-right: 50px;
+  margin-left: 60px;
+}
+.mah_mal h3 {
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 54px;
+  text-align: left;
+}
+.mah_mal p {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+}
+
+.mah_mal button {
+  width: 220px;
+  height: 48px;
+  align-items: center;
+  background: #405741;
+  border: 0px;
+  border-radius: 8px;
+  margin-top: 56px;
+  display: flex;
+  justify-content: center;
+}
+.mah_mal a {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+  color: #fff;
+  text-decoration: none;
+  align-items: center;
+}
+.mah_mal button a img {
+  width: 24px;
+  height: 24px;
+  margin-left: 10px;
+}
+/* rasimni to'g'rilab bo'madi a ni ham billa surib yuboryabdi  */
+.mah_mal button:hover {
+  background-color: #b88e2f;
+}
+.coment {
+  width: 1440px;
+  height: 663px;
+  background-color: #e9f8ef;
+  margin-top: 120px;
+}
+.coment h2 {
+  font-family: Poppins;
+  font-size: 44px;
+  font-weight: 600;
+  line-height: 66px;
+  text-align: center;
+  padding-top: 93.5px;
+}
+.coment p {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  padding-top: 4px;
+  text-align: center;
+}
+.foy {
+  margin-top: 80px;
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+}
+.conta {
+  width: 384.33px;
+  height: 234px;
+  border-radius: 8px;
+  background-color: #fff;
+  padding: 24px 22.33px 24px 22.33px;
+}
+.conta_mal p {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  color: #121216;
+}
+.cont {
+  display: flex;
+  margin-top: 45.5px;
+}
+.cont img {
+  width: 50px;
+  height: 50px;
+}
+.cont_tx {
+  margin-left: 19px;
+  width: 126px;
+  height: 49px;
+  margin-right: 37px;
+}
+.con_tx img {
+  width: 46px;
+  height: 39px;
+  margin-left: 37px;
+}
+.cont_tx p {
+  width: 126px;
+  height: 24px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+}
+.cont_tx span {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: left;
+  color: #a8a9b2;
+}
+
+.rectangle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 60px;
+  gap: 8px;
+}
+
+.news1 {
+  width: 40px;
+  height: 8px;
+  border-radius: 8px;
+  opacity: 0px;
+  background: #405741;
+}
+
+.news {
+  width: 40px;
+  height: 8px;
+  border-radius: 8px;
+  opacity: 0px;
+  background: rgb(199, 215, 204);
+}
+.f_left {
+  width: 490px;
+  height: 267.66px;
+}
+.f_left p {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  color: #091e42;
+  margin-top: 16px;
+  padding-bottom: 22px;
+}
+.f_left img {
+  gap: 15.6px;
+  margin-top: 16px;
+}
+.f_left a {
+  text-decoration: none;
+}
+.f_midle {
+  width: 173px;
+  height: 171px;
+  margin-left: 88px;
+}
+.f_midle p {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 27px;
+  text-align: left;
+  color: #091e42;
+}
+.item {
+  list-style: none;
+}
+.item a {
+  text-decoration: none;
+  color: #091e42;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+}
+.foter {
+  display: flex;
+  margin-top: 120px;
+  padding-top: 40px;
+  justify-content: center;
+}
+
+.f_right {
+  text-align: center;
+  margin-left: 88px;
+}
+
+.form {
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.form label {
+  display: block;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.input {
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 5px 0px 0px 5px;
+  margin-top: 24px;
+}
+
+.btn {
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 0px 5px 5px 0px;
+  cursor: pointer;
+  font-size: 16px;
+}
